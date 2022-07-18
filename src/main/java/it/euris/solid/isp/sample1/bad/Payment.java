@@ -1,4 +1,4 @@
-package it.euris.solid.lsp.sample2.bad;
+package it.euris.solid.isp.sample1.bad;
 
 import java.util.List;
 
