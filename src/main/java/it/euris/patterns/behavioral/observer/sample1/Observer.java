@@ -26,26 +26,3 @@ class NewsChannel implements Observer {
         this.description = description;
     }
 }
-
-
-
-
-class Header implements Observer {
-
-    private String description;
-
-
-
-    @Override
-    public void update(String news) {
-       // aggiorno header
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-}
